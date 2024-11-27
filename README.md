@@ -60,7 +60,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
   
-  <img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAUCAMAAADbT899AAAAV1BMVEX////BtIbEt43LwJydhi2eiDGsmVSijDz6+fXf2MKunFq4qXSchSaZgBji3MiyoWXQx6evnV77+/j08urUy625qnbd1r7Nw6CVfADJvZbl4M/t6d2gije/MZ0VAAAAfUlEQVR4Aa3RQwIEQRAEwGxrbP3/m2uOFedy4VyEUoY5lAsJxTQmaCOUhfN8g1GGBfcA6NAPMEJ70TMAiEWCoch/trhJ/QxDMkfxCoALMeSV34CSLwV4GLK/LeKFIatsfs2i1pOHkk0QBE07fWolbrxo8lndg9dOv/sJZ7oCUUYGT/PPRVAAAAAASUVORK5CYII=" style="height:26px;width:26px" alt="" data-csiid="QsdGZ67tFMHA0-kP6vmlyQc_2" data-atf="1">
-  <br>
+  <img class="XNo5Ab" 
 </div>
 <img alt="Animoji Chicken" src="https://em-content.zobj.net/content/2017/09/21/animoji-chicken-emojipedia.gif" style="width: 100%;">
